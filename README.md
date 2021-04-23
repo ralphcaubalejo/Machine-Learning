@@ -1,5 +1,7 @@
 # Machine-Learning Project
 
+
+
 ## Predicting Residential Condominium Prices based on the features that can be seen on lamudi.com
 
 ### Introduction
@@ -15,6 +17,14 @@ Can we predict the Price Value of a Residential Condominium based on the feature
 ![image](https://user-images.githubusercontent.com/67006507/115844122-1f0ab100-a452-11eb-9afc-8c62877f1d14.png)
 
 ### Results
+
+Best model for this dataset is the Voting Regressor with an accuracy of <b>86.87%</b> using the Gradient Boosting Method and the Extra Trees Method as its base estimators along with its optimized parameters.
+
 ![image](https://user-images.githubusercontent.com/67006507/115844313-4ceff580-a452-11eb-9b45-e7837aa9d3d7.png)
 
+### Directory
 
+1. Scraping Jupyter Notebook
+2. For Loop over Machine Learning Model Jupyter Notebook
+3. Technical Analysis Notebook
+4. PDF Summary
