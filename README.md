@@ -16,6 +16,14 @@ Can we predict the Price Value of a Residential Condominium based on the feature
 
 ![image](https://user-images.githubusercontent.com/67006507/115844122-1f0ab100-a452-11eb-9afc-8c62877f1d14.png)
 
+### Dataset
+
+The Dataset has the following features:
+
+![image](https://user-images.githubusercontent.com/67006507/115844996-0058ea00-a453-11eb-8fd5-3cfc7431211f.png)
+
+You can email me at rrcaubalejo@gmail.com for access to the scraped dataset.
+
 ### Results
 
 Best model for this dataset is the Voting Regressor with an accuracy of <b>86.87%</b> using the Gradient Boosting Method and the Extra Trees Method as its base estimators along with its optimized parameters.
